@@ -10,8 +10,8 @@ Answer-only accuracy can credit a model for a correct final answer that comes wi
 derivation. The **verification gap** is answer-only accuracy minus graded solution correctness.
 The filtering pipeline keeps the olympiad problems for which the final answer is hard to reach
 without a rigorous solution, and this repository releases the resulting benchmark, the problems
-the filter removed, and every intermediate output, so that each number in the paper can be
-recomputed without API calls.
+the filter removed, and every intermediate output, so that the paper's numbers on
+Numina-HARD-guess, the removed pool and the AIME control can be recomputed without API calls.
 
 ## Headline numbers (eight held-out comparable-tier models)
 
@@ -91,7 +91,7 @@ and commercial models).
 | `data/aime_control/` | AIME 1983-2024 control (210 problems, 5 per year) with the same eight models and protocol |
 | `data/judge_calibration_gradingbench/` | Triple-judge calibration against 200 human-graded IMO-GradingBench examples |
 | `data/contamination_audit/` | Near-duplicate audit of the pre-decontamination HARD pool: full per-problem match table (best match in AIME, MATH-500 and OlympicArena-Math) with the manual review of the three flags |
-| `code/` | Pipeline code (Apache-2.0) and the scripts behind every number in the paper |
+| `code/` | Pipeline code (Apache-2.0) and the scripts behind the paper's Numina-HARD-guess and AIME numbers |
 | `reproduce_headline.py` | Recomputes the table above from these files |
 
 Problem ids (`pid`) are unique within a run; use (`stage`, `pid`) as the key.

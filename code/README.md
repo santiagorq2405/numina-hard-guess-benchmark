@@ -1,7 +1,7 @@
 # Anti-guessing verification-gap pipeline (Numina-HARD-guess, N = 881)
 
-Code for the multi-stage filtering pipeline that builds Numina-HARD-guess and for every number
-reported in the paper. The released benchmark and all intermediate outputs (model solutions,
+Code for the multi-stage filtering pipeline that builds Numina-HARD-guess and for the paper's
+numbers on Numina-HARD-guess, the removed pool and the AIME control. The released benchmark and all intermediate outputs (model solutions,
 judge scores, rubrics, canary samples, stage labels) are in the top-level `data/` folder of this
 repository.
 
