@@ -1,0 +1,50 @@
+{
+  "n_entries_evaluated": 200,
+  "threshold_binary": 5.0,
+  "per_judge": {
+    "gpt-5.4": {
+      "n": 200,
+      "pearson_r": 0.7594992518552159,
+      "kappa": 0.587608127137397,
+      "mae": 1.57,
+      "judge_mean": 4.165,
+      "human_mean": 3.035,
+      "judge_pos_rate": 0.49,
+      "human_pos_rate": 0.355,
+      "agreement": 0.795
+    },
+    "gemini-3.1-pro": {
+      "n": 199,
+      "pearson_r": 0.8348374155143906,
+      "kappa": 0.6877941637903985,
+      "mae": 0.9798994974874372,
+      "judge_mean": 3.557788944723618,
+      "human_mean": 3.020100502512563,
+      "judge_pos_rate": 0.44221105527638194,
+      "human_pos_rate": 0.35175879396984927,
+      "agreement": 0.8492462311557789
+    },
+    "qwen3-235b": {
+      "n": 199,
+      "pearson_r": 0.626959039156127,
+      "kappa": 0.4856404365307295,
+      "mae": 1.9597989949748744,
+      "judge_mean": 4.653266331658291,
+      "human_mean": 3.0150753768844223,
+      "judge_pos_rate": 0.592964824120603,
+      "human_pos_rate": 0.35175879396984927,
+      "agreement": 0.7286432160804021
+    }
+  },
+  "aggregate_mean_3judges": {
+    "n": 200,
+    "pearson_r": 0.8195219285902726,
+    "kappa": 0.6768813841984573,
+    "mae": 1.4241666666666666,
+    "judge_mean": 4.130833333333333,
+    "human_mean": 3.035,
+    "judge_pos_rate": 0.43,
+    "human_pos_rate": 0.355,
+    "agreement": 0.845
+  }
+}

@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# os
+.DS_Store
+
+# heavy / regenerable artifacts (not part of the deliverable)
+data/*inference*.json
+data/*tier2*.json
+data/*tier3*.json
+data/snapshots/
+logs/
+*.bak
+*.tmp

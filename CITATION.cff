@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this benchmark or code, please cite the paper below."
+title: "Numina-HARD-guess: anti-guessing olympiad-math benchmark and verification-gap pipeline"
+authors:
+  - family-names: "Rivadeneira Quintero"
+    given-names: "Santiago"
+    affiliation: "EPFL"
+  - family-names: "Pushkin"
+    given-names: "Denys"
+    affiliation: "EPFL"
+  - family-names: "Abbe"
+    given-names: "Emmanuel"
+    affiliation: "EPFL"
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "Answer-Only Accuracy Measures the Wrong Construct: An Anti-Guessing Verification-Gap Protocol for Trustworthy Olympiad-Math Evaluation"
+  authors:
+    - family-names: "Rivadeneira Quintero"
+      given-names: "Santiago"
+    - family-names: "Pushkin"
+      given-names: "Denys"
+    - family-names: "Abbe"
+      given-names: "Emmanuel"
+  collection-title: "NeurIPS 2026 Workshop on Trust-AI-Eval (TAE): Can We Trust AI Evaluation?"
+  year: 2026
+  url: "https://openreview.net/forum?id=gOQk5WDD6f"

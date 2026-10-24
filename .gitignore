@@ -1,0 +1,14 @@
+# secrets
+.env
+code/.env
+
+# python
+__pycache__/
+*.pyc
+
+# os
+.DS_Store
+
+# files produced locally by code/scripts/00_fetch_released_data.py and the analysis scripts
+code/data/
+code/results/*.json

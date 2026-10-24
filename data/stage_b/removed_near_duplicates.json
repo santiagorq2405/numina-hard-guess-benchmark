@@ -1,0 +1,12 @@
+[
+ {
+  "pid": "PN_000062",
+  "stage": "stage_b",
+  "note": "removed: confirmed near-duplicate (contamination audit)"
+ },
+ {
+  "pid": "PN_001083",
+  "stage": "stage_b",
+  "note": "removed: confirmed near-duplicate (contamination audit)"
+ }
+]

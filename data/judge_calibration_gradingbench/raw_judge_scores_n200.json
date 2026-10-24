@@ -1,0 +1,1802 @@
+{
+  "GB-0777": {
+    "id": "GB-0777",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 2.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0508": {
+    "id": "GB-0508",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 2.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0896": {
+    "id": "GB-0896",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 6.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 5.0
+  },
+  "GB-0923": {
+    "id": "GB-0923",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0034": {
+    "id": "GB-0034",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 3.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0484": {
+    "id": "GB-0484",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 0.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0086": {
+    "id": "GB-0086",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0751": {
+    "id": "GB-0751",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0355": {
+    "id": "GB-0355",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0524": {
+    "id": "GB-0524",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 3.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0185": {
+    "id": "GB-0185",
+    "scores": {
+      "gpt-5.4": 4.0,
+      "qwen3-235b": 5.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 5.0
+  },
+  "GB-0810": {
+    "id": "GB-0810",
+    "scores": {
+      "gpt-5.4": 4.0,
+      "qwen3-235b": 5.0,
+      "gemini-3.1-pro": null
+    },
+    "human_points": 6.0
+  },
+  "GB-0419": {
+    "id": "GB-0419",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 6.0
+  },
+  "GB-0616": {
+    "id": "GB-0616",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0683": {
+    "id": "GB-0683",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0502": {
+    "id": "GB-0502",
+    "scores": {
+      "gpt-5.4": 4.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 4.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0761": {
+    "id": "GB-0761",
+    "scores": {
+      "qwen3-235b": 1.0,
+      "gpt-5.4": 0.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0050": {
+    "id": "GB-0050",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "gemini-3.1-pro": 2.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0733": {
+    "id": "GB-0733",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0337": {
+    "id": "GB-0337",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0451": {
+    "id": "GB-0451",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0791": {
+    "id": "GB-0791",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 3.0,
+      "gemini-3.1-pro": 1.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0351": {
+    "id": "GB-0351",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 3.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0468": {
+    "id": "GB-0468",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0623": {
+    "id": "GB-0623",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0477": {
+    "id": "GB-0477",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0615": {
+    "id": "GB-0615",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0555": {
+    "id": "GB-0555",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0366": {
+    "id": "GB-0366",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0771": {
+    "id": "GB-0771",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 2.0,
+      "qwen3-235b": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0631": {
+    "id": "GB-0631",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0941": {
+    "id": "GB-0941",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0798": {
+    "id": "GB-0798",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 3.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0497": {
+    "id": "GB-0497",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 3.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0925": {
+    "id": "GB-0925",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0370": {
+    "id": "GB-0370",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 5.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0597": {
+    "id": "GB-0597",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0721": {
+    "id": "GB-0721",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 4.0
+    },
+    "human_points": 5.0
+  },
+  "GB-0054": {
+    "id": "GB-0054",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0427": {
+    "id": "GB-0427",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0057": {
+    "id": "GB-0057",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 3.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0265": {
+    "id": "GB-0265",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0773": {
+    "id": "GB-0773",
+    "scores": {
+      "gemini-3.1-pro": 1.0,
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 3.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0186": {
+    "id": "GB-0186",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 5.0,
+      "gemini-3.1-pro": 4.0
+    },
+    "human_points": 5.0
+  },
+  "GB-0467": {
+    "id": "GB-0467",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0790": {
+    "id": "GB-0790",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 3.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0175": {
+    "id": "GB-0175",
+    "scores": {
+      "gpt-5.4": 4.0,
+      "qwen3-235b": 5.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0151": {
+    "id": "GB-0151",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 5.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 3.0
+  },
+  "GB-0742": {
+    "id": "GB-0742",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0114": {
+    "id": "GB-0114",
+    "scores": {
+      "qwen3-235b": 7.0,
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0429": {
+    "id": "GB-0429",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0966": {
+    "id": "GB-0966",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0019": {
+    "id": "GB-0019",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0190": {
+    "id": "GB-0190",
+    "scores": {
+      "gpt-5.4": 4.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0415": {
+    "id": "GB-0415",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 6.0
+    },
+    "human_points": 6.0
+  },
+  "GB-0590": {
+    "id": "GB-0590",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0667": {
+    "id": "GB-0667",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 5.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0764": {
+    "id": "GB-0764",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 3.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0222": {
+    "id": "GB-0222",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0587": {
+    "id": "GB-0587",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0582": {
+    "id": "GB-0582",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 6.0
+  },
+  "GB-0300": {
+    "id": "GB-0300",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 3.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0639": {
+    "id": "GB-0639",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0387": {
+    "id": "GB-0387",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0365": {
+    "id": "GB-0365",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 5.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0880": {
+    "id": "GB-0880",
+    "scores": {
+      "gpt-5.4": 0.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0335": {
+    "id": "GB-0335",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 1.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0017": {
+    "id": "GB-0017",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0203": {
+    "id": "GB-0203",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0002": {
+    "id": "GB-0002",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 3.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0039": {
+    "id": "GB-0039",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0291": {
+    "id": "GB-0291",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 3.0
+  },
+  "GB-0494": {
+    "id": "GB-0494",
+    "scores": {
+      "gpt-5.4": 0.0,
+      "qwen3-235b": 0.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0248": {
+    "id": "GB-0248",
+    "scores": {
+      "gpt-5.4": 4.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 6.0
+    },
+    "human_points": 5.0
+  },
+  "GB-0507": {
+    "id": "GB-0507",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 2.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0897": {
+    "id": "GB-0897",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0714": {
+    "id": "GB-0714",
+    "scores": {
+      "gpt-5.4": 4.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0892": {
+    "id": "GB-0892",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 5.0
+    },
+    "human_points": 5.0
+  },
+  "GB-0077": {
+    "id": "GB-0077",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 2.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0912": {
+    "id": "GB-0912",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0793": {
+    "id": "GB-0793",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 3.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0509": {
+    "id": "GB-0509",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0178": {
+    "id": "GB-0178",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 4.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0843": {
+    "id": "GB-0843",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0201": {
+    "id": "GB-0201",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0766": {
+    "id": "GB-0766",
+    "scores": {
+      "qwen3-235b": 1.0,
+      "gemini-3.1-pro": 0.0,
+      "gpt-5.4": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0910": {
+    "id": "GB-0910",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0294": {
+    "id": "GB-0294",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "qwen3-235b": 0.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0539": {
+    "id": "GB-0539",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 6.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 6.0
+  },
+  "GB-0025": {
+    "id": "GB-0025",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0695": {
+    "id": "GB-0695",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 5.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0211": {
+    "id": "GB-0211",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0425": {
+    "id": "GB-0425",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 0.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0529": {
+    "id": "GB-0529",
+    "scores": {
+      "qwen3-235b": 0.0,
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0035": {
+    "id": "GB-0035",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 3.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0929": {
+    "id": "GB-0929",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0399": {
+    "id": "GB-0399",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 5.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0608": {
+    "id": "GB-0608",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0299": {
+    "id": "GB-0299",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "qwen3-235b": 3.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0849": {
+    "id": "GB-0849",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 6.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 6.0
+  },
+  "GB-0669": {
+    "id": "GB-0669",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 6.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0283": {
+    "id": "GB-0283",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 1.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0940": {
+    "id": "GB-0940",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 3.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0945": {
+    "id": "GB-0945",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "gemini-3.1-pro": 2.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0607": {
+    "id": "GB-0607",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 3.0,
+      "gemini-3.1-pro": 1.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0960": {
+    "id": "GB-0960",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 3.0
+  },
+  "GB-0935": {
+    "id": "GB-0935",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0732": {
+    "id": "GB-0732",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0288": {
+    "id": "GB-0288",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0528": {
+    "id": "GB-0528",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 3.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0808": {
+    "id": "GB-0808",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 3.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0230": {
+    "id": "GB-0230",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0437": {
+    "id": "GB-0437",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0029": {
+    "id": "GB-0029",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0375": {
+    "id": "GB-0375",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0820": {
+    "id": "GB-0820",
+    "scores": {
+      "gemini-3.1-pro": 7.0,
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0317": {
+    "id": "GB-0317",
+    "scores": {
+      "gpt-5.4": 0.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0561": {
+    "id": "GB-0561",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0242": {
+    "id": "GB-0242",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0150": {
+    "id": "GB-0150",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 2.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 3.0
+  },
+  "GB-0517": {
+    "id": "GB-0517",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0418": {
+    "id": "GB-0418",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 6.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 6.0
+  },
+  "GB-0661": {
+    "id": "GB-0661",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 3.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0199": {
+    "id": "GB-0199",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0586": {
+    "id": "GB-0586",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0326": {
+    "id": "GB-0326",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0824": {
+    "id": "GB-0824",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0703": {
+    "id": "GB-0703",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 4.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0950": {
+    "id": "GB-0950",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 1.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0516": {
+    "id": "GB-0516",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 6.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0865": {
+    "id": "GB-0865",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0837": {
+    "id": "GB-0837",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0878": {
+    "id": "GB-0878",
+    "scores": {
+      "gpt-5.4": 0.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0360": {
+    "id": "GB-0360",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0595": {
+    "id": "GB-0595",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0789": {
+    "id": "GB-0789",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 5.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0189": {
+    "id": "GB-0189",
+    "scores": {
+      "gpt-5.4": 4.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0067": {
+    "id": "GB-0067",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0356": {
+    "id": "GB-0356",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 3.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0800": {
+    "id": "GB-0800",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 3.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0903": {
+    "id": "GB-0903",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0921": {
+    "id": "GB-0921",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0943": {
+    "id": "GB-0943",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 4.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0331": {
+    "id": "GB-0331",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0728": {
+    "id": "GB-0728",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0397": {
+    "id": "GB-0397",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0464": {
+    "id": "GB-0464",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0394": {
+    "id": "GB-0394",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0312": {
+    "id": "GB-0312",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0681": {
+    "id": "GB-0681",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0745": {
+    "id": "GB-0745",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0922": {
+    "id": "GB-0922",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0462": {
+    "id": "GB-0462",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0523": {
+    "id": "GB-0523",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0632": {
+    "id": "GB-0632",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": null
+    },
+    "human_points": 7.0
+  },
+  "GB-0491": {
+    "id": "GB-0491",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0196": {
+    "id": "GB-0196",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0257": {
+    "id": "GB-0257",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0694": {
+    "id": "GB-0694",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0741": {
+    "id": "GB-0741",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0578": {
+    "id": "GB-0578",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 6.0
+  },
+  "GB-0158": {
+    "id": "GB-0158",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 1.0,
+      "gemini-3.1-pro": 4.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0613": {
+    "id": "GB-0613",
+    "scores": {
+      "gpt-5.4": 0.0,
+      "qwen3-235b": 2.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0393": {
+    "id": "GB-0393",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0970": {
+    "id": "GB-0970",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 4.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0689": {
+    "id": "GB-0689",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0362": {
+    "id": "GB-0362",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0817": {
+    "id": "GB-0817",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0402": {
+    "id": "GB-0402",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0093": {
+    "id": "GB-0093",
+    "scores": {
+      "gemini-3.1-pro": 1.0,
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0918": {
+    "id": "GB-0918",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0490": {
+    "id": "GB-0490",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "qwen3-235b": 0.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0452": {
+    "id": "GB-0452",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0252": {
+    "id": "GB-0252",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0654": {
+    "id": "GB-0654",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 3.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0770": {
+    "id": "GB-0770",
+    "scores": {
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 0.0,
+      "gpt-5.4": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0671": {
+    "id": "GB-0671",
+    "scores": {
+      "gpt-5.4": 5.0,
+      "qwen3-235b": 6.0,
+      "gemini-3.1-pro": 1.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0130": {
+    "id": "GB-0130",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "qwen3-235b": 0.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0638": {
+    "id": "GB-0638",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0992": {
+    "id": "GB-0992",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 2.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0343": {
+    "id": "GB-0343",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 1.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0309": {
+    "id": "GB-0309",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0137": {
+    "id": "GB-0137",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 2.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0089": {
+    "id": "GB-0089",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 1.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0328": {
+    "id": "GB-0328",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 0.0,
+      "qwen3-235b": 0.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0476": {
+    "id": "GB-0476",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0982": {
+    "id": "GB-0982",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 1.0,
+      "gemini-3.1-pro": 6.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0851": {
+    "id": "GB-0851",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0893": {
+    "id": "GB-0893",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 6.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 5.0
+  },
+  "GB-0376": {
+    "id": "GB-0376",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  },
+  "GB-0179": {
+    "id": "GB-0179",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "qwen3-235b": 5.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0027": {
+    "id": "GB-0027",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0350": {
+    "id": "GB-0350",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 6.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0500": {
+    "id": "GB-0500",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "qwen3-235b": 4.0,
+      "gemini-3.1-pro": 2.0
+    },
+    "human_points": 2.0
+  },
+  "GB-0475": {
+    "id": "GB-0475",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0618": {
+    "id": "GB-0618",
+    "scores": {
+      "gpt-5.4": 1.0,
+      "qwen3-235b": 3.0,
+      "gemini-3.1-pro": 0.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0698": {
+    "id": "GB-0698",
+    "scores": {
+      "gpt-5.4": 2.0,
+      "gemini-3.1-pro": 1.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 0.0
+  },
+  "GB-0051": {
+    "id": "GB-0051",
+    "scores": {
+      "gpt-5.4": 3.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 5.0
+    },
+    "human_points": 1.0
+  },
+  "GB-0212": {
+    "id": "GB-0212",
+    "scores": {
+      "gpt-5.4": 7.0,
+      "gemini-3.1-pro": 7.0,
+      "qwen3-235b": 7.0
+    },
+    "human_points": 7.0
+  },
+  "GB-0382": {
+    "id": "GB-0382",
+    "scores": {
+      "gpt-5.4": 6.0,
+      "qwen3-235b": 7.0,
+      "gemini-3.1-pro": 7.0
+    },
+    "human_points": 4.0
+  }
+}

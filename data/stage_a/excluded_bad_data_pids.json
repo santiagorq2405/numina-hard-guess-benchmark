@@ -1,0 +1,1896 @@
+{
+  "n_total": 1000,
+  "n_excluded": 269,
+  "n_kept": 731,
+  "reasons": {
+    "bad_answer": 197,
+    "short_problem": 72
+  },
+  "excluded_pids": [
+    "PN_000001",
+    "PN_000004",
+    "PN_000006",
+    "PN_000009",
+    "PN_000011",
+    "PN_000013",
+    "PN_000015",
+    "PN_000019",
+    "PN_000026",
+    "PN_000028",
+    "PN_000035",
+    "PN_000036",
+    "PN_000040",
+    "PN_000043",
+    "PN_000044",
+    "PN_000056",
+    "PN_000057",
+    "PN_000059",
+    "PN_000061",
+    "PN_000065",
+    "PN_000071",
+    "PN_000076",
+    "PN_000083",
+    "PN_000090",
+    "PN_000092",
+    "PN_000097",
+    "PN_000106",
+    "PN_000108",
+    "PN_000114",
+    "PN_000115",
+    "PN_000121",
+    "PN_000127",
+    "PN_000133",
+    "PN_000138",
+    "PN_000139",
+    "PN_000144",
+    "PN_000146",
+    "PN_000147",
+    "PN_000148",
+    "PN_000154",
+    "PN_000155",
+    "PN_000158",
+    "PN_000159",
+    "PN_000160",
+    "PN_000161",
+    "PN_000165",
+    "PN_000166",
+    "PN_000170",
+    "PN_000177",
+    "PN_000182",
+    "PN_000183",
+    "PN_000184",
+    "PN_000194",
+    "PN_000200",
+    "PN_000201",
+    "PN_000202",
+    "PN_000203",
+    "PN_000204",
+    "PN_000205",
+    "PN_000206",
+    "PN_000208",
+    "PN_000211",
+    "PN_000217",
+    "PN_000218",
+    "PN_000219",
+    "PN_000221",
+    "PN_000230",
+    "PN_000244",
+    "PN_000248",
+    "PN_000251",
+    "PN_000257",
+    "PN_000266",
+    "PN_000267",
+    "PN_000268",
+    "PN_000275",
+    "PN_000281",
+    "PN_000289",
+    "PN_000291",
+    "PN_000292",
+    "PN_000295",
+    "PN_000301",
+    "PN_000319",
+    "PN_000320",
+    "PN_000322",
+    "PN_000323",
+    "PN_000327",
+    "PN_000329",
+    "PN_000332",
+    "PN_000336",
+    "PN_000337",
+    "PN_000349",
+    "PN_000353",
+    "PN_000354",
+    "PN_000355",
+    "PN_000357",
+    "PN_000365",
+    "PN_000367",
+    "PN_000369",
+    "PN_000372",
+    "PN_000373",
+    "PN_000376",
+    "PN_000380",
+    "PN_000384",
+    "PN_000391",
+    "PN_000398",
+    "PN_000401",
+    "PN_000403",
+    "PN_000407",
+    "PN_000410",
+    "PN_000414",
+    "PN_000419",
+    "PN_000420",
+    "PN_000422",
+    "PN_000428",
+    "PN_000434",
+    "PN_000435",
+    "PN_000438",
+    "PN_000440",
+    "PN_000441",
+    "PN_000446",
+    "PN_000447",
+    "PN_000451",
+    "PN_000453",
+    "PN_000455",
+    "PN_000462",
+    "PN_000468",
+    "PN_000475",
+    "PN_000480",
+    "PN_000483",
+    "PN_000490",
+    "PN_000493",
+    "PN_000500",
+    "PN_000502",
+    "PN_000503",
+    "PN_000505",
+    "PN_000507",
+    "PN_000508",
+    "PN_000509",
+    "PN_000514",
+    "PN_000518",
+    "PN_000520",
+    "PN_000522",
+    "PN_000527",
+    "PN_000531",
+    "PN_000534",
+    "PN_000536",
+    "PN_000541",
+    "PN_000542",
+    "PN_000544",
+    "PN_000546",
+    "PN_000556",
+    "PN_000561",
+    "PN_000562",
+    "PN_000564",
+    "PN_000570",
+    "PN_000572",
+    "PN_000573",
+    "PN_000575",
+    "PN_000576",
+    "PN_000577",
+    "PN_000582",
+    "PN_000590",
+    "PN_000595",
+    "PN_000598",
+    "PN_000606",
+    "PN_000613",
+    "PN_000623",
+    "PN_000629",
+    "PN_000632",
+    "PN_000633",
+    "PN_000635",
+    "PN_000637",
+    "PN_000638",
+    "PN_000643",
+    "PN_000648",
+    "PN_000649",
+    "PN_000654",
+    "PN_000657",
+    "PN_000661",
+    "PN_000662",
+    "PN_000666",
+    "PN_000669",
+    "PN_000673",
+    "PN_000674",
+    "PN_000676",
+    "PN_000678",
+    "PN_000682",
+    "PN_000686",
+    "PN_000687",
+    "PN_000689",
+    "PN_000694",
+    "PN_000695",
+    "PN_000702",
+    "PN_000705",
+    "PN_000709",
+    "PN_000713",
+    "PN_000716",
+    "PN_000718",
+    "PN_000719",
+    "PN_000725",
+    "PN_000728",
+    "PN_000732",
+    "PN_000734",
+    "PN_000736",
+    "PN_000740",
+    "PN_000744",
+    "PN_000745",
+    "PN_000748",
+    "PN_000749",
+    "PN_000753",
+    "PN_000758",
+    "PN_000766",
+    "PN_000769",
+    "PN_000770",
+    "PN_000781",
+    "PN_000782",
+    "PN_000786",
+    "PN_000788",
+    "PN_000790",
+    "PN_000797",
+    "PN_000801",
+    "PN_000802",
+    "PN_000803",
+    "PN_000804",
+    "PN_000811",
+    "PN_000814",
+    "PN_000820",
+    "PN_000839",
+    "PN_000848",
+    "PN_000851",
+    "PN_000856",
+    "PN_000877",
+    "PN_000879",
+    "PN_000881",
+    "PN_000882",
+    "PN_000884",
+    "PN_000889",
+    "PN_000895",
+    "PN_000896",
+    "PN_000900",
+    "PN_000902",
+    "PN_000912",
+    "PN_000914",
+    "PN_000917",
+    "PN_000919",
+    "PN_000921",
+    "PN_000923",
+    "PN_000926",
+    "PN_000935",
+    "PN_000939",
+    "PN_000943",
+    "PN_000946",
+    "PN_000948",
+    "PN_000949",
+    "PN_000950",
+    "PN_000951",
+    "PN_000953",
+    "PN_000954",
+    "PN_000957",
+    "PN_000959",
+    "PN_000962",
+    "PN_000966",
+    "PN_000968",
+    "PN_000974",
+    "PN_000979",
+    "PN_000981",
+    "PN_000986",
+    "PN_000990",
+    "PN_001000"
+  ],
+  "details": [
+    {
+      "pid": "PN_000001",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "7. (10 points) A group of $m$ students is called unfriendly if any two of its members do not friend each other. A studen"
+    },
+    {
+      "pid": "PN_000004",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "15 (20 points) Given the function $f(x)=\\mathrm{e}^{x}-x$, (where $\\mathrm{e}$ is an irrational number, $\\mathrm{e}=$ 2."
+    },
+    {
+      "pid": "PN_000006",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "## Task 4\n\nDetermine the numbers $x$ :\n\n$$\n8-x>6 \\quad 8+x=10 \\quad 5-x=0\n$$"
+    },
+    {
+      "pid": "PN_000009",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "518. On the Mountain Top. Professor Rackbrain told us over breakfast that when he was in Italy, he participated in a cli"
+    },
+    {
+      "pid": "PN_000011",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "252 15 ** Two players, $A$ and $B$, take turns to choose any 5 numbers from the set $1,2,4, \\cdots, 2^{1998}$, which con"
+    },
+    {
+      "pid": "PN_000013",
+      "reason": "short_problem",
+      "answer": "(0,1)(3,11)",
+      "problem_preview": ". Find all pairs $(x, y)$ of natural numbers such that:\n\n$$\n1+x+x^{2}+x^{3}+x^{4}=y^{2}\n$$"
+    },
+    {
+      "pid": "PN_000015",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "12. Given a square $ABCD$ with side length $\\sqrt{2}+1$, circle $\\theta^{T}$ passes through vertex $A$ and the intersect"
+    },
+    {
+      "pid": "PN_000019",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Is it true that if the ratio of the angles in a triangle is 1:3:4, then the centroid falls on the circumference of the i"
+    },
+    {
+      "pid": "PN_000026",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "120. Read the following equalities from left to right and from right to left and formulate the corresponding rules for o"
+    },
+    {
+      "pid": "PN_000028",
+      "reason": "short_problem",
+      "answer": "6",
+      "problem_preview": "8. To make all the small animals satisfied, there are $\\qquad$ ways to arrange the rooms."
+    },
+    {
+      "pid": "PN_000035",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "# 17. Problem 17\n\nA photographer at a maternity hospital photographs all families who come to take the mother and baby h"
+    },
+    {
+      "pid": "PN_000036",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Adva van oly egyenes első projekciója, mely egy megadott gömböt érint és az érintési pont; keressük az egyenes második p"
+    },
+    {
+      "pid": "PN_000040",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "[ Circles (constructions). ] [ Product of the lengths of chord segments and the lengths of secant segments ]\n\nConstruct "
+    },
+    {
+      "pid": "PN_000043",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "## Task Condition\n\nAre the vectors $a, b$ and $c$ coplanar?\n\n$a=\\{4 ; 1 ; 2\\}$\n\n$b=\\{9 ; 2 ; 5\\}$\n\n$c=\\{1 ; 1 ;-1\\}$"
+    },
+    {
+      "pid": "PN_000044",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Spivak A.V.\n\nMark 6 points on a plane so that from each point, there are exactly three points at a distance of 1. \n\n#"
+    },
+    {
+      "pid": "PN_000056",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "17. $1.23 \\star$ A rational number $x$ is called \"good\" if it satisfies the following conditions: $x=\\frac{p}{q}>1$, whe"
+    },
+    {
+      "pid": "PN_000057",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "and 20 kop.)\n\n#"
+    },
+    {
+      "pid": "PN_000059",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Let $c_{1}, c_{2}, \\cdots$ be a sequence of positive integers, and for any positive integer $m, n$ satisfying $1 \\leqsla"
+    },
+    {
+      "pid": "PN_000061",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "1. Solve the equation $\\log (a x+b)=2 \\log (x+1)$, where $a$ and $b$ are real parameters."
+    },
+    {
+      "pid": "PN_000065",
+      "reason": "short_problem",
+      "answer": "0.3",
+      "problem_preview": "2. Calculate: $(56 \\times 0.57 \\times 0.85) \\div(2.8 \\times 19 \\times 1.7)=$"
+    },
+    {
+      "pid": "PN_000071",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "$\\underline{\\text { Botin D. }}$.\n\nThe court astrologer of King Pea calls a time of day good if, during an instantaneous"
+    },
+    {
+      "pid": "PN_000076",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "14. In the coordinate plane, points with both coordinates as integers are called integer points, and triangles with all "
+    },
+    {
+      "pid": "PN_000083",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "They asked for the maximum and minimum of the function\n\n$$\ny=\\frac{x^{2}+1}{x^{2}+4 x+3}\n$$"
+    },
+    {
+      "pid": "PN_000090",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "8. Jigsaw puzzles have always been a favorite game for children. Please choose only one type of shape from the following"
+    },
+    {
+      "pid": "PN_000092",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "## Task 1 - 340631\n\nEvery convex polygon can be divided into triangles whose vertices are also vertices of the polygon. "
+    },
+    {
+      "pid": "PN_000097",
+      "reason": "short_problem",
+      "answer": "2",
+      "problem_preview": "3. Calculate: $\\frac{1 \\div 2 \\div 3-5 \\div 10 \\div 15}{8 \\div 9 \\div 10-32 \\div 36 \\div 40}=$"
+    },
+    {
+      "pid": "PN_000106",
+      "reason": "short_problem",
+      "answer": "\\pi",
+      "problem_preview": "3. [3] What is the period of the function $f(x)=\\cos (\\cos (x))$ ?"
+    },
+    {
+      "pid": "PN_000108",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Two positive integers $a$ and $b$ are prime-related if $a=p b$ or $b=p a$ for some prime $p$. Find all positive integers"
+    },
+    {
+      "pid": "PN_000114",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "7-4 (A10, USSR) Find 4 real numbers $x_{1}, x_{2}, x_{3}, x_{1}$, such that the sum of any one of them and the product o"
+    },
+    {
+      "pid": "PN_000115",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "2. Answer. The sign is positive."
+    },
+    {
+      "pid": "PN_000121",
+      "reason": "short_problem",
+      "answer": "1",
+      "problem_preview": "# Task 2.\n\nWhat is the last digit of the value of the sum $5^{2020}+6^{2019} ?$"
+    },
+    {
+      "pid": "PN_000127",
+      "reason": "short_problem",
+      "answer": "4",
+      "problem_preview": "I4.3 $P Q R S$ is a rectangle. If $c$ is the radius of the smaller circle, find the value of $c$."
+    },
+    {
+      "pid": "PN_000133",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "[ Mathematical logic (miscellaneous) $]$\n\nElephants, rhinos, giraffes. In all zoos where there are elephants and rhinos,"
+    },
+    {
+      "pid": "PN_000138",
+      "reason": "short_problem",
+      "answer": "(,n)=(-1,-1),(0,1),(1,-1),(2,-7),(3,7)",
+      "problem_preview": "37th BMO 2001 Problem 2 Find all integer solutions to m 2 n + 1 = m 2 + 2mn + 2m + n. Solution"
+    },
+    {
+      "pid": "PN_000139",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "16. - For each $k \\geqslant 1$, find the chromatic function of $\\{G \\mid \\Delta(G) \\geqslant k\\}$."
+    },
+    {
+      "pid": "PN_000144",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "2. In the country of Anchuria, banknotes of four denominations are in circulation: 1 dollar, 10 dollars, 100 dollars, an"
+    },
+    {
+      "pid": "PN_000146",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "## SUBJECT 1\n\na) Write three real numbers $x, y, z$, one of which should be a negative rational number, and the other tw"
+    },
+    {
+      "pid": "PN_000147",
+      "reason": "short_problem",
+      "answer": "\\frac{4\\sin^{2}(\\frac{\\pi}{4}+\\frac{\\alpha}{2})}{\\",
+      "problem_preview": "$4.26 \\operatorname{tg} \\frac{\\alpha}{2}+\\operatorname{ctg} \\frac{\\alpha}{2}+2$."
+    },
+    {
+      "pid": "PN_000148",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "2.8. Final round of the \"Rosatom\" Olympiad, 11th grade (Sergiev Posad, Obninsk)\n\nAnswers and solutions\n\nProblem 1 Answer"
+    },
+    {
+      "pid": "PN_000154",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "1. The point $C(13,11)$ is on the line segment joining $A(1,2)$ and $B(17,14)$. Point $C$ has the property that the rati"
+    },
+    {
+      "pid": "PN_000155",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Let's modify the cyclic quadrilateral $A B C D$ from its opposite sides $A B$ and $C D$, and the angles $\\angle B A C = "
+    },
+    {
+      "pid": "PN_000158",
+      "reason": "short_problem",
+      "answer": "-2",
+      "problem_preview": "[Rational Equations]\n\nSolve the equation:\n\n$$\nx+\\frac{x}{x}+\\frac{x}{x+\\frac{x}{x}}=1\n$$"
+    },
+    {
+      "pid": "PN_000159",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "14. The Caterpillar and Bill the Lizard\n\n- Take the Caterpillar and Bill the Lizard, for instance, replied the Duchess. "
+    },
+    {
+      "pid": "PN_000160",
+      "reason": "short_problem",
+      "answer": "\\frac{1}{8};8",
+      "problem_preview": "7.192. $\\sqrt{3 \\log _{2}^{2} x-1-9 \\log _{x}^{2} 2}=5$."
+    },
+    {
+      "pid": "PN_000161",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "22nd Junior Spring 2001 Problem 1 10% of the employees in a country get 90% of the total salary. Can the country be divi"
+    },
+    {
+      "pid": "PN_000165",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "The triangle needs to be edited if the difference of two of its sides, the radius of the circumscribed circle, and the f"
+    },
+    {
+      "pid": "PN_000166",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "4. A natural number $n=\\overline{a b c d}$ is a perfect square. We increase the thousands digit by 3, the hundreds digit"
+    },
+    {
+      "pid": "PN_000170",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Three. (50 points)\nLet $m$ be any positive integer not less than 3.\n1. Given a circle and a set $V_{m}$ of $m$ points eq"
+    },
+    {
+      "pid": "PN_000177",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Four hunters: András, Béla, Csaba, and Dénes have a hunting trophy consisting of a wild boar, a deer, a wolf, and a fox."
+    },
+    {
+      "pid": "PN_000182",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "We placed some blue and red points along a circle. With these, we can perform the following operations:\n\n(a) insert a ne"
+    },
+    {
+      "pid": "PN_000183",
+      "reason": "short_problem",
+      "answer": "\\frac{\\pi}{4}",
+      "problem_preview": "10. Find the smallest positive period of the function $y=|\\sin 2 x|+|\\cos 2 x|$."
+    },
+    {
+      "pid": "PN_000184",
+      "reason": "short_problem",
+      "answer": "70336",
+      "problem_preview": "4.050. Find the sum of all three-digit numbers divisible by 7."
+    },
+    {
+      "pid": "PN_000194",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "8 The equation $2(x-1) \\sin \\pi x+1=0$ has all its solutions in the interval $[-2,4]$ summing up to $\\qquad$ .\n\nTranslat"
+    },
+    {
+      "pid": "PN_000200",
+      "reason": "short_problem",
+      "answer": "17",
+      "problem_preview": "Find the inverse of 42 modulo 143"
+    },
+    {
+      "pid": "PN_000201",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "130. A circle of radius $R$ passes through vertices $A$ and $B$ of triangle $ABC$ and is tangent to the line $AC$ at poi"
+    },
+    {
+      "pid": "PN_000202",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Task A-2.4.\n\nFind all pairs $(x, y)$ of real numbers for which\n\n$$\nx y^{3}=-135, \\quad(x+y) y=-6\n$$"
+    },
+    {
+      "pid": "PN_000203",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "4. The circle $\\Gamma$, inscribed in triangle $ABC$, touches side $AB$ at point $K$, and side $AC$ at point $T$. On the "
+    },
+    {
+      "pid": "PN_000204",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "3. Plot on the plane the set of points whose coordinates $(x, y)$ satisfy the condition $y=\\frac{\\sin x}{|\\sin x|}$."
+    },
+    {
+      "pid": "PN_000205",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "\nC3. We have two piles with 2000 and 2017 coins respectively. Ann and Bob take alternate turns making the following move"
+    },
+    {
+      "pid": "PN_000206",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "## Task 4.\n\nDetermine all natural numbers $n$ such that $n!-n+1$ is a square of a natural number."
+    },
+    {
+      "pid": "PN_000208",
+      "reason": "short_problem",
+      "answer": "(0,2),(0,-2),(4,23),(4,-23)",
+      "problem_preview": "N58 (47-4, USA) Find all integer pairs $(x, y)$ such that\n$$\n1+2^{x}+2^{2 x+1}=y^{2} .\n$$"
+    },
+    {
+      "pid": "PN_000211",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "For example, $\\mathbf{N}_{+}$ is the set of positive integers, and the mappings $p, q$ from $\\mathbf{N}_{+}$ to $\\mathbf"
+    },
+    {
+      "pid": "PN_000217",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Task 8.\n\n## Maximum 10 points\n\nImagine that you bought an apartment in a new building some time ago, and finally, the de"
+    },
+    {
+      "pid": "PN_000218",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "\nC3. A set $S=\\left\\{s_{1}, \\ldots, s_{k}\\right\\}$ of positive real numbers is polygonal if $k \\geq 3$ and there is a no"
+    },
+    {
+      "pid": "PN_000219",
+      "reason": "short_problem",
+      "answer": "\\sqrt{3}",
+      "problem_preview": "6. $\\frac{2 \\cos 10^{\\circ}-\\sin 20^{\\circ}}{\\cos 20^{\\circ}}$ The value is $\\qquad$"
+    },
+    {
+      "pid": "PN_000221",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "6. Given positive real numbers $\\mathrm{xy}$ satisfy: $\\frac{1}{x+3 y}+\\frac{1}{2 x+y}=1$, then the minimum value of $\\m"
+    },
+    {
+      "pid": "PN_000230",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Example 1 Given that the graph of the quadratic function $y=f_{1}(x)$ has the origin as its vertex and passes through th"
+    },
+    {
+      "pid": "PN_000244",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "IMO 1992 Problem B1 L is a tangent to the circle C and M is a point on L. Find the locus of all points P such that there"
+    },
+    {
+      "pid": "PN_000248",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Find all real numbers $x, y$ satisfying $x^{5}+y^{5}=33$ and $x+y=3$.\n\n## Newton's Relations\n\nWe will see that certain p"
+    },
+    {
+      "pid": "PN_000251",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "7.3. Among the first 500 natural numbers $1,2, \\ldots, 500$, is there a sequence consisting of consecutive a) nine compo"
+    },
+    {
+      "pid": "PN_000257",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "A king is located in a corner of a $\\mathfrak{m} \\times \\mathfrak{n}$ chessboard. Taking turns, Anthelme and Brunehaut m"
+    },
+    {
+      "pid": "PN_000266",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "11-2. In a certain coordinate system, the graph of the function $y=\\cos ^{2} x$ was plotted. After that, the coordinate "
+    },
+    {
+      "pid": "PN_000267",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "2. In the plane, a segment $A V$ and an acute angle of size $\\alpha$ are given. Determine the set of centers of circumci"
+    },
+    {
+      "pid": "PN_000268",
+      "reason": "bad_answer:'not found'",
+      "answer": "not found",
+      "problem_preview": "Find all triples of positive integers $(a, b, p)$ with $p$ prime and \n$$ a^{p}=b!+p $$ \n(Belgium)"
+    },
+    {
+      "pid": "PN_000275",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "Let's prove that if we add up the measurements of all the edges of a rectangular prism with a unit body diagonal, twice "
+    },
+    {
+      "pid": "PN_000281",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "11-3 (G29, Poland) Let the lengths of $k$ edges of a tetrahedron be $a$, and the lengths of the remaining $6-k$ edges be"
+    },
+    {
+      "pid": "PN_000289",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "(1) The minimum possible value of $M$;\n(2) The maximum possible value of $m$."
+    },
+    {
+      "pid": "PN_000291",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Task 3. The probability that a part is standard is 0.8. Find the minimum number of parts that should be selected so that"
+    },
+    {
+      "pid": "PN_000292",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "10.17*. Prove that $l_{a} \\leqslant \\sqrt{p(p-a)}$.\n\nTranslate the above text into English, please retain the original t"
+    },
+    {
+      "pid": "PN_000295",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "1.11. a) The golden section refers to the division of a segment into two parts, such that the whole segment is to the la"
+    },
+    {
+      "pid": "PN_000301",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "37. Can we find a point in this convex polygon such that all projections of it onto the lines containing the sides of th"
+    },
+    {
+      "pid": "PN_000319",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "8-153 Given 30 cups each containing some milk. Boy $B$ wants to make the milk in all cups evenly distributed. For this, "
+    },
+    {
+      "pid": "PN_000320",
+      "reason": "short_problem",
+      "answer": "\\frac{\\sqrt{2}(\\sqrt{3}+1)}{2}",
+      "problem_preview": "117. Simplify the expression:\n\n$$\n\\sqrt{2+\\sqrt{3}}\n$$"
+    },
+    {
+      "pid": "PN_000322",
+      "reason": "short_problem",
+      "answer": "18",
+      "problem_preview": "6. Nine nonnegative numbers have average 10. What is the greatest possible value for their median?"
+    },
+    {
+      "pid": "PN_000323",
+      "reason": "short_problem",
+      "answer": "3",
+      "problem_preview": "58. The positive integer solutions of the equation $7 x+4 y=100$ are $\\qquad$ groups."
+    },
+    {
+      "pid": "PN_000327",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "2. In mathematics, \"equals\" (i.e., \"=\") can indicate both the equality of two numbers and the equality of two expression"
+    },
+    {
+      "pid": "PN_000329",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "217. Solve the equation $x^{2}+2=3 x+$ $+75 y$ in integers."
+    },
+    {
+      "pid": "PN_000332",
+      "reason": "short_problem",
+      "answer": "11",
+      "problem_preview": "9. The maximum value of the function $f(x)=\\sqrt{2 x-7}+\\sqrt{12-x}+\\sqrt{44-x}$ is"
+    },
+    {
+      "pid": "PN_000336",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "## Task 3 - 330623\n\nConstruct a right-angled triangle $A B C$ with $A C=5 \\text{ cm}, B C=6 \\text{ cm}$ and the right an"
+    },
+    {
+      "pid": "PN_000337",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "334. Investigate for maximum and minimum of the functions:\n1) $y=\\left(1-x^{2}\\right)^{3}$\n2) $u=x \\sqrt{1-x^{2}}$\n3) $v"
+    },
+    {
+      "pid": "PN_000349",
+      "reason": "short_problem",
+      "answer": "2x",
+      "problem_preview": "170. Differentiate the function $y=x^{2}$."
+    },
+    {
+      "pid": "PN_000353",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Let's rotate each edge of a regular tetrahedron by \\(180^{\\circ}\\) around the opposite edge. What shape is defined by th"
+    },
+    {
+      "pid": "PN_000354",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Let's construct a triangle, given the points where a median, an angle bisector, and an altitude from one of the triangle"
+    },
+    {
+      "pid": "PN_000355",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "For each of the following equations, determine the set of polynomials $P \\in \\mathbb{K}[X]$ satisfying the condition.\n\n1"
+    },
+    {
+      "pid": "PN_000357",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "1. Two players, A and B, play a game on a $6 \\times 6$ grid. Each turn, a player writes a real number in an empty cell, "
+    },
+    {
+      "pid": "PN_000365",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Let's construct a right-angled triangle, given the radius $r$ of the circumscribed circle and the bisector of one acute "
+    },
+    {
+      "pid": "PN_000367",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "After the successful completion of the graduation exams, a charitable foundation awarded a prize among the most outstand"
+    },
+    {
+      "pid": "PN_000369",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Given a circle plane $(S)$, its center $(O)$, and radius $(r=\\sqrt{a(a+b)})$. There are also two points $(P, Q)$ such th"
+    },
+    {
+      "pid": "PN_000372",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "289. What condition must the coefficients of two linear equations with two unknowns satisfy, a) for both unknowns to hav"
+    },
+    {
+      "pid": "PN_000373",
+      "reason": "short_problem",
+      "answer": "n",
+      "problem_preview": "5. Find all natural values of $n$ such that the number $n^{4}+64^{n}$ is composite."
+    },
+    {
+      "pid": "PN_000376",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "2B. Each vertex of a cube is numbered with one of the numbers -1 and 1, and on each face is written the product of the n"
+    },
+    {
+      "pid": "PN_000380",
+      "reason": "short_problem",
+      "answer": "(x,y)suchthatx\\midyory\\midx",
+      "problem_preview": "Find all pairs of natural numbers $(x, y)$ such that $x \\wedge y+\\frac{x y}{x \\wedge y}=x+y$."
+    },
+    {
+      "pid": "PN_000384",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Task 2 - 320812 A wooden cube was painted with the three colors red, yellow, and blue, each of the six squares of its su"
+    },
+    {
+      "pid": "PN_000391",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "213. Given a circle $S$ and two points $A$ and $B$ on it. All pairs of circles $S_{1}, S_{2}$, touching $S$ at points $A"
+    },
+    {
+      "pid": "PN_000398",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "778. Can it happen that during the motion of a body, two and only two points remain stationary?"
+    },
+    {
+      "pid": "PN_000401",
+      "reason": "short_problem",
+      "answer": "35",
+      "problem_preview": "G5.1 If the roots of $x^{2}-2 x-P=0$ differ by 12 , find the value of $P$."
+    },
+    {
+      "pid": "PN_000403",
+      "reason": "short_problem",
+      "answer": "5",
+      "problem_preview": "2. $\\quad \" ? \"=$"
+    },
+    {
+      "pid": "PN_000407",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "313. The given problem is solved in two ways: arithmetically and algebraically (using an equation); what, in general, ar"
+    },
+    {
+      "pid": "PN_000410",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "19. As shown in the figure, it is composed of four overlapping rectangles, with eight small circles at the intersection "
+    },
+    {
+      "pid": "PN_000414",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "5. On a $3 \\times 99$ board, a chip is placed in the central cell. Magnus and Sergey take turns moving the chip one or t"
+    },
+    {
+      "pid": "PN_000419",
+      "reason": "short_problem",
+      "answer": "-10121012",
+      "problem_preview": "## Task B-2.3.\n\nSolve the equation\n\n$$\n\\sqrt{x^{2}+2 x+1}+\\sqrt{x^{2}-2 x+1}=2024\n$$"
+    },
+    {
+      "pid": "PN_000420",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Example. Find the derivatives $z_{x}^{\\prime}$ and $z_{y}^{\\prime}$ of the function $z=u / v$, where $u=x^{y}$ and $v=\\s"
+    },
+    {
+      "pid": "PN_000422",
+      "reason": "short_problem",
+      "answer": "14",
+      "problem_preview": "(10) The number of positive integers not exceeding 2012 that have only three positive divisors is"
+    },
+    {
+      "pid": "PN_000428",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "41. Let $\\xi_{1}, \\ldots, \\xi_{n}$ be independent copies of the random variable $\\xi$, where\n\n$$\n\\xi= \\begin{cases}2 & \\"
+    },
+    {
+      "pid": "PN_000434",
+      "reason": "short_problem",
+      "answer": "(-1;\\sqrt[3]{})(\\sqrt[3]{};-1)",
+      "problem_preview": "6.089. $\\left\\{\\begin{array}{l}u^{3}+v^{3}+1=m, \\\\ u^{3} v^{3}=-m .\\end{array}\\right.$"
+    },
+    {
+      "pid": "PN_000435",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "5. Given a function $f(x)$ defined on $\\mathbf{R}$ that satisfies: $f(x+y)=f(x)+f(y)$, and when $x>0$, $f(x)0$ is a cons"
+    },
+    {
+      "pid": "PN_000438",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Can seven non-negative integers be arranged in a circle so that the sum of some three consecutive numbers is equal to 1,"
+    },
+    {
+      "pid": "PN_000440",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Example 5. Solve the system\n\n$$\n\\left\\{\\begin{aligned}\n2 x_{1}+2 x_{2}-x_{3}+x_{4}+4 x_{6} & =0 \\\\\nx_{1}+2 x_{2}+2 x_{3}"
+    },
+    {
+      "pid": "PN_000441",
+      "reason": "short_problem",
+      "answer": "(\\frac{1}{2};4)",
+      "problem_preview": "7.290. $\\left\\{\\begin{array}{l}y^{x}=1.5+y^{-x} \\\\ y^{2.5+x}=64(y>0)\\end{array}\\right.$"
+    },
+    {
+      "pid": "PN_000446",
+      "reason": "short_problem",
+      "answer": "(+b)(b+)(-)",
+      "problem_preview": "1. Factorize the expression into prime factors\n\n$$\nb c(b+c)+c a(c-a)-a b(a+b)\n$$"
+    },
+    {
+      "pid": "PN_000447",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "The unit-sided equilateral triangle plate $KLM=H$ is placed such that its side $KL$ coincides with the side $AB$ of the "
+    },
+    {
+      "pid": "PN_000451",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "7.1. In the picture, 4 kittens form one row, in which there are 3 kittens, and three rows, each with 2 kittens. Arrange "
+    },
+    {
+      "pid": "PN_000453",
+      "reason": "short_problem",
+      "answer": "21\\cdot37",
+      "problem_preview": "70. The product of two two-digit numbers is 777. Find these numbers."
+    },
+    {
+      "pid": "PN_000455",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "депчинн В.A.\n\nThe test consists of 30 questions, each with two answer options (one correct, the other incorrect). In one"
+    },
+    {
+      "pid": "PN_000462",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "$[$ Special cases of tetrahedra (other) ]\n\nAuthor: Marreseov $C, B$.\n\nCan the net of a tetrahedron be a triangle with si"
+    },
+    {
+      "pid": "PN_000468",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "14. In 1993, American mathematician F. Smarandache proposed many number theory problems, attracting the attention of sch"
+    },
+    {
+      "pid": "PN_000475",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "539. a) Around which prisms can a sphere be circumscribed? b) Into which prisms can a sphere be inscribed?"
+    },
+    {
+      "pid": "PN_000480",
+      "reason": "short_problem",
+      "answer": "(,b)\\in{(-5,2),(-1,-2),(1,2),(5,-2),(1,-3),(-5,3),",
+      "problem_preview": "1. In the set of integers, solve the equation\n\n$$\na^{2}+2 a b+2 b^{2}=13\n$$"
+    },
+    {
+      "pid": "PN_000483",
+      "reason": "short_problem",
+      "answer": "=4,n=6",
+      "problem_preview": "8,9\nFind all natural $m$ and $n$, for which $m!+12=n^{2}$."
+    },
+    {
+      "pid": "PN_000490",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "How many line segments can connect the intersection points of $n$ intersecting lines?"
+    },
+    {
+      "pid": "PN_000493",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "29. (GRE 4) Find positive integers $x_{1}, x_{2}, \\ldots, x_{29}$, at least one of which is greater than 1988 , such tha"
+    },
+    {
+      "pid": "PN_000500",
+      "reason": "short_problem",
+      "answer": "if\\<\\frac{\\sqrt{3}}{2},\\no\\solution;\\\\if\\=\\frac{\\s",
+      "problem_preview": "[Law of Cosines]\n\nIn triangle $ABC$, angle $A$ is $60^{\\circ}$, $AB=1$, $BC=a$. Find $AC$.\n\n#"
+    },
+    {
+      "pid": "PN_000502",
+      "reason": "short_problem",
+      "answer": "\\frac{3}{2},\\frac{\\pi}{2}",
+      "problem_preview": "9. Find the smallest positive real numbers $x$ and $y$ such that $x^{2}-3 x+2.5=\\sin y-0.75$."
+    },
+    {
+      "pid": "PN_000503",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Let's construct triangle $ABC$, given vertex $A$, the orthocenter $M$, and the midpoint of side $BC$. Is there a case wh"
+    },
+    {
+      "pid": "PN_000505",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "1. On the night of December 3 to 4, a \"supermoon\" occurred: the full Moon was near the closest point to Earth on its ell"
+    },
+    {
+      "pid": "PN_000507",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Provide a procedure for constructing the diagram. (Where we see a tangency, it must indeed be a tangency.)\n\n![](https://"
+    },
+    {
+      "pid": "PN_000508",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Given three parallel lines, construct an equilateral triangle with a vertex on each of the lines using a ruler and compa"
+    },
+    {
+      "pid": "PN_000509",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Chikin B.\n\nUsing a compass and a ruler, construct a convex quadrilateral from the midpoints of its three equal sides.\n\n#"
+    },
+    {
+      "pid": "PN_000514",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "123. Solve the equation\n\n$$\nx^{4}+x^{2}+\\sqrt{2} x+2=0\n$$"
+    },
+    {
+      "pid": "PN_000518",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "7.4. Let $s(n)$ denote the sum of the digits of a natural number $n$. Does there exist an $n$ such that $n \\cdot s(n)=10"
+    },
+    {
+      "pid": "PN_000520",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "7. In an equilateral $\\triangle A B C$ there is a point $P$, if $P A=3, P B=4, P C=5$, find the area of this triangle."
+    },
+    {
+      "pid": "PN_000522",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "1. Solve the system of inequalities:\n\n$$\n\\left\\{\\begin{array}{l}\n4 x^{2}+4 x y+19 y^{2} \\leq 2 \\\\\nx-y \\leq-1\n\\end{array}"
+    },
+    {
+      "pid": "PN_000527",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "The twelfth question: Let set $\\mathrm{A}$ be a finite set composed of real numbers, $|\\mathrm{A}| \\geq 2$. Denote $Q(A)"
+    },
+    {
+      "pid": "PN_000531",
+      "reason": "short_problem",
+      "answer": "12,",
+      "problem_preview": "1. By exhaustion, which can be reduced by considerations of divisibility, we obtain."
+    },
+    {
+      "pid": "PN_000534",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "# Problem 8. (3 points)\n\nQuadrilateral $ABCD$ is inscribed in a circle with diameter $AC=65$. It is also known that $BC="
+    },
+    {
+      "pid": "PN_000536",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Find $p, q>5$ such that $p q \\mid\\left(5^{p}-2^{p}\\right)\\left(5^{q}-2^{q}\\right)$."
+    },
+    {
+      "pid": "PN_000541",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": ". A worm enters a beautiful red apple, which is assimilated to a sphere with a radius of $5 \\mathrm{~cm}$, at point $A$ "
+    },
+    {
+      "pid": "PN_000542",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "16 Given a function $f_{n}(x)$ defined on $\\mathbf{R}$ with the following properties:\n(1) $f_{n}(0)=\\frac{1}{2}$; (2) $n"
+    },
+    {
+      "pid": "PN_000544",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Are there natural numbers $p, q, r$ for which the following equality holds\n\n$$\n2^{p}+5^{q}=19^{r}\n$$"
+    },
+    {
+      "pid": "PN_000546",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Example. Solve the first mixed problem for the heat equation in a circle:\n\n$$\n\\begin{aligned}\n& u_{t}=\\Delta u, \\quad 0 "
+    },
+    {
+      "pid": "PN_000556",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Given are the perpendicular lines $e_{1}$ and $e_{2}$, as well as a point $P$ different from their intersection point, l"
+    },
+    {
+      "pid": "PN_000561",
+      "reason": "short_problem",
+      "answer": "(\\frac{1}{2};4)",
+      "problem_preview": "6.096. $\\left\\{\\begin{array}{l}x^{2} y^{3}=16 \\\\ x^{3} y^{2}=2\\end{array}\\right.$"
+    },
+    {
+      "pid": "PN_000562",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "3. 29 Put $r$ identical balls into $n$ labeled boxes, with no box empty. Find the number of ways."
+    },
+    {
+      "pid": "PN_000564",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "The plane is divided into regions delimited by a finite number of circles and lines. Show that these regions can be colo"
+    },
+    {
+      "pid": "PN_000570",
+      "reason": "short_problem",
+      "answer": "(0;0)",
+      "problem_preview": "11.4. Solve the equation $2^{\\sqrt{x y}}+5^{\\sqrt{x+y}}=3^{-x}+4^{-y}$."
+    },
+    {
+      "pid": "PN_000572",
+      "reason": "short_problem",
+      "answer": "e(1)",
+      "problem_preview": "Example 4. Find $x_{t}^{\\prime}$ at $t=1$, if $t \\ln x - x \\ln t = 1$."
+    },
+    {
+      "pid": "PN_000573",
+      "reason": "short_problem",
+      "answer": "2+n(n-1)",
+      "problem_preview": "7.48 $n$ planes passing through a certain point can divide the space into at most how many regions?"
+    },
+    {
+      "pid": "PN_000575",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "At 7:00 AM, Lisa wakes up and says, “I slept for 9 and a half hours.” What time did Lisa fall asleep last night?\n\nA\nB\nC\n"
+    },
+    {
+      "pid": "PN_000576",
+      "reason": "short_problem",
+      "answer": "x_{1}=x_{2}=\\frac{-1+i\\sqrt{3}}{2},x_{3}=x_{4}=\\fr",
+      "problem_preview": "2. Solve the equation\n\n$$\n(1+x)^{8}+\\left(1+x^{2}\\right)^{4}=2 x^{4}\n$$"
+    },
+    {
+      "pid": "PN_000577",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "## 1. task.\n\na) Calculate: $5^{3}+6^{3}+7^{3}+11^{3}$;\n\nb) Prove that $2015^{2014}$ can be written as the sum of four pe"
+    },
+    {
+      "pid": "PN_000582",
+      "reason": "short_problem",
+      "answer": "10000",
+      "problem_preview": "7. (10 points) Calculate: $(100+15+17) \\times(21+36+11)+(100-21-36-11) \\times(15+17)=$"
+    },
+    {
+      "pid": "PN_000590",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "3. Separately (outside the table), indicate the deadline for submitting the tax return on form 3-NDFL in cases where the"
+    },
+    {
+      "pid": "PN_000595",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "320. Nougat puzzle. A piece of nougat is 16 cm long, 8 cm wide, and $7 \\frac{1}{2}$ cm thick.\n\nWhat is the greatest numb"
+    },
+    {
+      "pid": "PN_000598",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "## Task 7\n\nDraw two parallel lines. On each of the two lines, mark a segment of arbitrary length. Complete the drawing s"
+    },
+    {
+      "pid": "PN_000606",
+      "reason": "short_problem",
+      "answer": "0or2",
+      "problem_preview": "11. Solve the equations: 1) \\((x-7)^{2}-(x-1)^{3}=50-13 x\\); 2) \\((x-2)^{3}=|x+6|^{2}-44\\)."
+    },
+    {
+      "pid": "PN_000613",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "10,11\n\nDetermine the sign of the number $(\\cos (\\cos 1)-\\cos 1)(\\sin (\\sin 1)-\\sin 1)$ without using a calculator."
+    },
+    {
+      "pid": "PN_000623",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "10. Given the hyperbola $x^{2}-y^{2}=2$ with left and right foci $F_{1}, F_{2}$, a tangent line is drawn through the fix"
+    },
+    {
+      "pid": "PN_000629",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "8.91*. Given a segment $A B$, a line $l$ and a point $O$ on it. Construct a point $X$ on the line $l$ such that $O X=A B"
+    },
+    {
+      "pid": "PN_000632",
+      "reason": "short_problem",
+      "answer": "\\(498,\\496),\\(78,\\64)",
+      "problem_preview": "Solve the equation $x^{2}-y^{2}=1988$ in integers.\n\n#"
+    },
+    {
+      "pid": "PN_000633",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "![](https://cdn.mathpix.com/cropped/2024_05_02_441708183fab78e2c383g-1.jpg?height=248&width=290&top_left_y=128&top_left_"
+    },
+    {
+      "pid": "PN_000635",
+      "reason": "short_problem",
+      "answer": "(-1,0)\\cup(1,+\\infty)",
+      "problem_preview": "Example 4 Solve the inequality: $\\left|x^{2}+3 x-1\\right|>1+x+\\left|x^{2}-2 x\\right|$."
+    },
+    {
+      "pid": "PN_000637",
+      "reason": "short_problem",
+      "answer": "\\prod_{i=1}^{j}(v_{p_{i}}(n)+1)",
+      "problem_preview": "How to calculate the number of divisors of an integer $n$?"
+    },
+    {
+      "pid": "PN_000638",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Let's modify the parallelogram if the perimeter, one angle, and the diagonal starting from the vertex of this angle are "
+    },
+    {
+      "pid": "PN_000643",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Biinkov A. d.\n\nLine $a$ intersects plane $\\alpha$. It is known that in this plane there are 2011 lines equidistant from "
+    },
+    {
+      "pid": "PN_000648",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "7.3. We have 10 sticks with lengths 1 (cm), 2 (cm), $2^{2}$ (cm),.., $2^{9}$ (cm). Can we form an isosceles triangle usi"
+    },
+    {
+      "pid": "PN_000649",
+      "reason": "short_problem",
+      "answer": "8",
+      "problem_preview": "I4.1 The remainder when $x^{6}-8 x^{3}+6$ is divided by $(x-1)(x-2)$ is $7 x-a$, find $a$."
+    },
+    {
+      "pid": "PN_000654",
+      "reason": "short_problem",
+      "answer": "nosolutions",
+      "problem_preview": "Example 13. Solve the equation\n\n$$\n2 \\sqrt{1-x^{2}}=x-2\n$$"
+    },
+    {
+      "pid": "PN_000657",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "4th Centromerican 2002 Problem B2 Find an infinite set of positive integers such that the sum of any finite number of di"
+    },
+    {
+      "pid": "PN_000661",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "# Task 6.\n\n## Maximum 15 points\n\nOn January 23, 2019, Ivan Petrovich Sidorov went to work in South Africa. The day befor"
+    },
+    {
+      "pid": "PN_000662",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "4. Determine for which natural numbers $n$ it is possible to divide the set $\\mathrm{M}=\\{1,2, \\ldots, n\\}$ a) into two,"
+    },
+    {
+      "pid": "PN_000666",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "A four-digit square number divisible by 11 has a 1 in the units place. Which number is this?\n\n将上面的文本翻译成英文，请保留源文本的换行和格式，直"
+    },
+    {
+      "pid": "PN_000669",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "26.3. (SFRY, 81). A mouse is gnawing at a cheese cube with an edge of 3, divided into 27 unit cubes. When the mouse eats"
+    },
+    {
+      "pid": "PN_000673",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "3. Answer. Petya can win."
+    },
+    {
+      "pid": "PN_000674",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Let $n$ be a positive integer. Determine the size of the largest subset of $\\{-n,-n+$ $1, \\ldots, n-1, n\\}$ which does n"
+    },
+    {
+      "pid": "PN_000676",
+      "reason": "short_problem",
+      "answer": "90",
+      "problem_preview": "A figure on a plane has exactly two axes of symmetry. Find the angle between these axes.\n\n#"
+    },
+    {
+      "pid": "PN_000678",
+      "reason": "short_problem",
+      "answer": "(-1)^{k+1}\\frac{\\pi}{24}+\\frac{\\pik}{4},k\\inZ",
+      "problem_preview": "8.270. $\\sin ^{3} x \\cos 3 x+\\cos ^{3} x \\sin 3 x+0.375=0$."
+    },
+    {
+      "pid": "PN_000682",
+      "reason": "short_problem",
+      "answer": "0or-1",
+      "problem_preview": "3. The solution to the equation $\\arctan \\sqrt{x(x+1)}+\\arcsin \\sqrt{x(x+1)+1}=\\frac{\\pi}{2}$ is"
+    },
+    {
+      "pid": "PN_000686",
+      "reason": "short_problem",
+      "answer": "x+3",
+      "problem_preview": "Example 4. $\\quad f(x)=\\frac{x^{3}+3 x^{2}}{x^{2}-2}$."
+    },
+    {
+      "pid": "PN_000687",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "3+\n\nA rectangular frame was cut out of graph paper (see figure). It was cut into nine pieces along the cell boundaries a"
+    },
+    {
+      "pid": "PN_000689",
+      "reason": "short_problem",
+      "answer": "14",
+      "problem_preview": "78 There is a natural number $n$ such that $2^{1 n}+2^{13}+2^{n}$ is a perfect square."
+    },
+    {
+      "pid": "PN_000694",
+      "reason": "short_problem",
+      "answer": "1,1,\\frac{3\\\\sqrt{5}}{2}",
+      "problem_preview": "282. Solve the equation:\n\n$$\nx^{4}-5 x^{3}+8 x^{2}-5 x+1=0\n$$"
+    },
+    {
+      "pid": "PN_000695",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "2.4. Circle $K_{1}$ with a radius of 1 internally touches circle $K_{2}$ with a radius of 2. Describe the geometric locu"
+    },
+    {
+      "pid": "PN_000702",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Find a similar criterion with 11."
+    },
+    {
+      "pid": "PN_000705",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "For which natural numbers $n$ is the following statement true: if there are $n$ lattice points in a square grid in the p"
+    },
+    {
+      "pid": "PN_000709",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Task 2. The technical control department inspected $n=100$ batches of $N=10$ items each, and as a result, obtained a dis"
+    },
+    {
+      "pid": "PN_000713",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Example 7. Plot the graph of the function $y=\\sqrt[3]{6 x^{2}-x^{3}}$."
+    },
+    {
+      "pid": "PN_000716",
+      "reason": "short_problem",
+      "answer": "regulartriangle,,regularhexagon",
+      "problem_preview": "2.26. What regular polygons can result from the intersection of a cube with a plane?"
+    },
+    {
+      "pid": "PN_000718",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Given two non-zero natural numbers $a$ and $b$, we say that $b$ is $a$-pleasant if, for any list $d_{1}, d_{2}, \\ldots, "
+    },
+    {
+      "pid": "PN_000719",
+      "reason": "short_problem",
+      "answer": "\\sqrt{2}",
+      "problem_preview": "4. Calculate $\\sqrt{3+\\sqrt{5}}-\\sqrt{3-\\sqrt{5}}$."
+    },
+    {
+      "pid": "PN_000725",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "The circles $k_{1}$ and $k_{2}$ (with different radii) touch each other at point $T$. A line $e$ passing through $T$ int"
+    },
+    {
+      "pid": "PN_000728",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "$[$ Modular arithmetic (miscellaneous).] $]$ [ Products and factorials $]$\n\nCan $m!+n!$ end in 1990?"
+    },
+    {
+      "pid": "PN_000732",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "687. How to cut off from a given triangle, by a straight line parallel to one of its sides, a triangle equal to one four"
+    },
+    {
+      "pid": "PN_000734",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "12.24. Prove that $r_{a}+r_{b}+r_{c}=4 R+r$.\n\nTranslate the text above into English, please retain the original text's l"
+    },
+    {
+      "pid": "PN_000736",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Example 8-1 A typical problem is a $4 \\times 4$ chessboard, with 4 pieces placed on the board such that no two pieces ar"
+    },
+    {
+      "pid": "PN_000740",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "$2+$ [ Constructing Triangles from Various Elements ]\n\nUsing a compass and a straightedge, construct a triangle given th"
+    },
+    {
+      "pid": "PN_000744",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "## Task 11/67\n\nGiven are two circles $K(A)$ and $K(B)$ with centers $A$ and $B$, respectively, which intersect at $S$ an"
+    },
+    {
+      "pid": "PN_000745",
+      "reason": "short_problem",
+      "answer": "\\frac{1}{4}<x<\\frac{1}{2}",
+      "problem_preview": "9. Solve the inequality $\\log \\left(5^{\\frac{1}{x}}+5^{3}\\right)<\\log 6+\\log 5^{1+\\frac{1}{2 x}}$."
+    },
+    {
+      "pid": "PN_000748",
+      "reason": "short_problem",
+      "answer": "x\\in(0;\\frac{1}{2})\\cup(2;3)",
+      "problem_preview": "9.144. $\\frac{\\left(x-\\frac{1}{2}\\right)(3-x)}{\\log _{2}|x-1|}>0$."
+    },
+    {
+      "pid": "PN_000749",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Example 5 As shown in Figure 4, a region is divided into 5 administrative areas. Now we are coloring the map, with the r"
+    },
+    {
+      "pid": "PN_000753",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "$\\underline{\\text { Ivanov V. }}$.\n\na) The vertices of a regular 10-gon are painted alternately black and white. Two pla"
+    },
+    {
+      "pid": "PN_000758",
+      "reason": "short_problem",
+      "answer": "\\frac{2019}{2^{2018}}",
+      "problem_preview": "2. $\\prod_{i=1}^{2018} \\sin \\frac{i \\pi}{2019}=$ $\\qquad$"
+    },
+    {
+      "pid": "PN_000766",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "[ Unusual Constructions (Miscellaneous).]\n\nUsing a two-sided ruler, construct the center of a given circle, the diameter"
+    },
+    {
+      "pid": "PN_000769",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "For a given triangle, construct three circles of equal radius that pass through one point, and each side of the triangle"
+    },
+    {
+      "pid": "PN_000770",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Problem 3. Numbers from 1 to 50 are written on cards. Can these cards be placed into 11 bags (so that each bag contains "
+    },
+    {
+      "pid": "PN_000781",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "5. The lengths of the sides of a triangle expressed in centimeters are three consecutive odd numbers. If the perimeter o"
+    },
+    {
+      "pid": "PN_000782",
+      "reason": "short_problem",
+      "answer": "6",
+      "problem_preview": "90. The remainder of $\\left(17^{2015}-2\\right) \\div 15$ is $\\qquad$ ."
+    },
+    {
+      "pid": "PN_000786",
+      "reason": "short_problem",
+      "answer": "[5,10]",
+      "problem_preview": "29. Give three real roots of $\\sqrt{x+3-4 \\sqrt{x-1}}+\\sqrt{x+8-6 \\sqrt{x-1}}=1$."
+    },
+    {
+      "pid": "PN_000788",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "\\section*{Problem 3 - 111213}\n\nAll non-negative real numbers \\(k\\) are to be specified for which the polynomial \\(f(x)=("
+    },
+    {
+      "pid": "PN_000790",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Exercise 2. A farmer plants carrots in a garden, which initially contains 33 carrots. On some days, the farmer picks one"
+    },
+    {
+      "pid": "PN_000797",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "4. Does there exist a spatial pentagon whose sides are mutually equal and whose angles between two adjacent sides are ri"
+    },
+    {
+      "pid": "PN_000801",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Annipanni and Boribon take turns writing digits next to each other, moving from left to right on the paper. Annipanni st"
+    },
+    {
+      "pid": "PN_000802",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "[ Constructions (other).]\n\nGiven three points $A, B, C$. Through point $A$, draw a line such that the sum of the distanc"
+    },
+    {
+      "pid": "PN_000803",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Does there exist a positive rational number $q$ such that $q^{3}-10 q^{2}+q-2021=0$?\n\n(Hint: $45^{2}=2025$)"
+    },
+    {
+      "pid": "PN_000804",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "1. a) $z_{1}=a_{1}+b_{1} i, z_{2}=a_{2}+b_{2} i, a_{1}, a_{2}, b_{1}, b_{2} \\in R$\n\n$\\left|z_{1}\\right|+\\left|z_{2}\\righ"
+    },
+    {
+      "pid": "PN_000811",
+      "reason": "short_problem",
+      "answer": "20",
+      "problem_preview": "19. Find the radius of the circle inscribed in a triangle of side lengths $50,120,130$."
+    },
+    {
+      "pid": "PN_000814",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "66. (MON 1) (SL89-17)."
+    },
+    {
+      "pid": "PN_000820",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Task 2. Can the numbers from 1 to 1000 be divided into several groups such that each group contains at least two numbers"
+    },
+    {
+      "pid": "PN_000839",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "1.6 计算\n$$\n1 \\cdot 1!+2 \\cdot 2!+3 \\cdot 3!+\\cdots+n \\cdot n!\n$$"
+    },
+    {
+      "pid": "PN_000848",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "$8 \\cdot 43$ integer sequence $\\left\\{a_{n}\\right\\}$ satisfies:\n$$\na_{1}=2, a_{2}=7, -\\frac{1}{2}1, a_{n}$ is odd."
+    },
+    {
+      "pid": "PN_000851",
+      "reason": "short_problem",
+      "answer": "7or9",
+      "problem_preview": "# 7479189.\n\nWhich digit key could have been malfunctioning? List all possible options."
+    },
+    {
+      "pid": "PN_000856",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "## Task 5 - V10815\n\nConstruct a triangle from: $c=7 \\text{~cm}, h_{c}=5 \\text{~cm}, \\gamma=60^{\\circ}$.\n\n(Auxiliary line"
+    },
+    {
+      "pid": "PN_000877",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "On a straight line, four points $A, B, C, D$ are given in the specified order. Construct a point $M$ from which the segm"
+    },
+    {
+      "pid": "PN_000879",
+      "reason": "short_problem",
+      "answer": "26",
+      "problem_preview": "42. 5 little birds and 4 little white rabbits have. $\\qquad$ feet."
+    },
+    {
+      "pid": "PN_000881",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Let $n$ be a positive odd integer. We write all the numbers from 1 to $2n$ on a board. At each turn, we can choose two n"
+    },
+    {
+      "pid": "PN_000882",
+      "reason": "short_problem",
+      "answer": "n=p,2pforsomeporn=8,9",
+      "problem_preview": "\n2. Find all natural numbers $n>1$ such that $n^{2}$ does not divide $(n-2)$ !.\n"
+    },
+    {
+      "pid": "PN_000884",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "Given the distance $A B$ as a side, a regular hexagon is to be constructed such that the side opposite to $A B$ lies in "
+    },
+    {
+      "pid": "PN_000889",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "# 14. Problem 14\n\nA family took out a mortgage of 2 million rubles from a commercial bank at an annual interest rate of "
+    },
+    {
+      "pid": "PN_000895",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "3. The graph of the function $y=a x^{4}+1$ is tangent to the line $y=\\frac{4}{3} x$, then the value of $a$ is"
+    },
+    {
+      "pid": "PN_000896",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Task 1 - 290931\nDescribe and justify a construction for the following task that is executable using only a straightedge "
+    },
+    {
+      "pid": "PN_000900",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Is it possible to divide the natural numbers into two sets such that neither set contains an infinite arithmetic sequenc"
+    },
+    {
+      "pid": "PN_000902",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "The circles $k_{a}$ with radius $a$ and $k_{b}$ with radius $(a>b)$ have a common center $O$. From point $A$ on $k_{a}$,"
+    },
+    {
+      "pid": "PN_000912",
+      "reason": "short_problem",
+      "answer": "e^{y}+\\tilde{C}_{1}=(x+C_{2})^{2}",
+      "problem_preview": "Example 5. Solve the equation $y^{\\prime \\prime}+\\left(y^{\\prime}\\right)^{2}=2 e^{-y}$."
+    },
+    {
+      "pid": "PN_000914",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "In a room that is $4 \\mathrm{~m}$ long, $2.5 \\mathrm{~m}$ wide, and $2.3 \\mathrm{~m}$ high, a wardrobe stands against th"
+    },
+    {
+      "pid": "PN_000917",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "77. Given a line $l$ and two points $A$ and $B$ on the same side of it. Find a point $X$ on the line $l$ such that the s"
+    },
+    {
+      "pid": "PN_000919",
+      "reason": "bad_answer:''",
+      "answer": "",
+      "problem_preview": "2. If you add 2 to the last digit of the quotient, you get the second-to-last digit, and if you add 2 to the third digit"
+    },
+    {
+      "pid": "PN_000921",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "381. An infantry platoon approaches the bank of a river, but it turns out that the bridge is broken and there is no ford"
+    },
+    {
+      "pid": "PN_000923",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "6. Given the function $f: N^{*} \\rightarrow N^{*}$, satisfying for any $x, y \\in N^{*}$, we have: $f(x f(y))=y f(x)$. Fi"
+    },
+    {
+      "pid": "PN_000926",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "In five baskets A, B, V, G, and D, there are apples of five different varieties. In each of the baskets A and B, there a"
+    },
+    {
+      "pid": "PN_000935",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "6. There is a strip of 101 cells, on which a chip can move: forward by any even number of cells, and backward by any odd"
+    },
+    {
+      "pid": "PN_000939",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Two circles are internally tangent at point A. Let B be the point diametrically opposite on the large circle. We draw BC"
+    },
+    {
+      "pid": "PN_000943",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "86. (USA 2) Let $l$ denote the length of the smallest diagonal of all rectangles inscribed in a triangle $T$. (By inscri"
+    },
+    {
+      "pid": "PN_000946",
+      "reason": "short_problem",
+      "answer": "4\\pi",
+      "problem_preview": "11. The smallest positive period of the function $f(x)=2 \\sin \\frac{x}{2}-\\sqrt{3} \\cos x$ is"
+    },
+    {
+      "pid": "PN_000948",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "On a sphere."
+    },
+    {
+      "pid": "PN_000949",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "[Inscribed angle, based on the diameter]\n\nGiven points $A$ and $B$. With the center at point $B$, circles are drawn with"
+    },
+    {
+      "pid": "PN_000950",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "[ Cutting, partitions, coverings, and tilings ]\n\n#"
+    },
+    {
+      "pid": "PN_000951",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Fomin C.B.\n\nGiven 27 cubes of the same size: 9 red, 9 blue, and 9 white. Is it possible to arrange them into a cube such"
+    },
+    {
+      "pid": "PN_000953",
+      "reason": "short_problem",
+      "answer": "(2k\\pi-\\frac{2\\pi}{3},2k\\pi),k\\in{Z}",
+      "problem_preview": "9. The solution to the inequality $\\sqrt{3} \\sin x-\\cos x+1<0$ is"
+    },
+    {
+      "pid": "PN_000954",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "17. Can the tree-width of a subdivision of a graph $G$ be smaller than $\\operatorname{tw}(G)$? Can it be larger?"
+    },
+    {
+      "pid": "PN_000957",
+      "reason": "short_problem",
+      "answer": "16665",
+      "problem_preview": "Determine the integer equal to\n\n$$\n2020+1919+1818+1717+1616+1515+1414+1313+1212+1111+1010 .\n$$"
+    },
+    {
+      "pid": "PN_000959",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "## Task 6/80\n\nConstruct a right-angled triangle from its hypotenuse $A B$ and the point $D$, where the bisector of the r"
+    },
+    {
+      "pid": "PN_000962",
+      "reason": "short_problem",
+      "answer": "(0,1)\\cup(1,2^{\\frac{2}{7}})\\cup(4,+\\infty)",
+      "problem_preview": "10. The solution set of the inequality $\\left|\\frac{1}{\\log \\frac{1}{2} x}+2\\right|>\\frac{3}{2}$ is"
+    },
+    {
+      "pid": "PN_000966",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Can we select 10 consecutive even numbers and divide them into five pairs $\\left(a_{k}, b_{k}\\right)(k=1,2, \\cdots, 5)$,"
+    },
+    {
+      "pid": "PN_000968",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Folkpor\n\nIn a round-robin chess tournament, 9 boys and 3 girls are participating (each plays against each other once, a "
+    },
+    {
+      "pid": "PN_000974",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "![](https://cdn.mathpix.com/cropped/2024_05_06_696cdbe703e904f1264dg-33.jpg?height=377&width=2041&top_left_y=180&top_lef"
+    },
+    {
+      "pid": "PN_000979",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "Jeníčka and Mařenka were intrigued by a water structure, part of which is shown in the picture. The channels gradually s"
+    },
+    {
+      "pid": "PN_000981",
+      "reason": "bad_answer:'proof'",
+      "answer": "proof",
+      "problem_preview": "112. If $n$ is even, then $3^{n}+63$ is divisible by 72. Is the converse statement true?"
+    },
+    {
+      "pid": "PN_000986",
+      "reason": "short_problem",
+      "answer": "760",
+      "problem_preview": "## Task 2\n\nSubtract the number 200 from the product of the numbers 70 and 8."
+    },
+    {
+      "pid": "PN_000990",
+      "reason": "bad_answer:'notfound'",
+      "answer": "notfound",
+      "problem_preview": "7.- If the pentagons do not share an edge, where are their positions in the graph?"
+    },
+    {
+      "pid": "PN_001000",
+      "reason": "short_problem",
+      "answer": "(2016!)^{2}>2016^{2016}",
+      "problem_preview": "# 4. Which number is greater (2016!) or 2016"
+    }
+  ]
+}
